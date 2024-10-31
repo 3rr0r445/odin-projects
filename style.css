@@ -2,5 +2,13 @@
     background-color: black;
     color: white;
     font-family: 'Times New Roman', Times, serif;
-    font-size: larger;
+    font-size: large;
+    text-align: center;
+}
+
+h1 {
+    font-size:xx-large;
+}
+li {
+    list-style-position: inside;
 }
